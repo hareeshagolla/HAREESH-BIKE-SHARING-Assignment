@@ -1,5 +1,7 @@
-# Project Name
-> Outline a brief description of your project.
+# Shared Bikes Case Study
+
+> A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. 
+This bike can then be returned to another dock belonging to the same system..
 
 
 ## Table of Contents
@@ -11,9 +13,11 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
+- A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. .
 - What is the background of your project?
-- What is the business probem that your project is trying to solve?
+- The company is finding it very difficult to sustain in the current market scenario. 
+So, it has decided to come up with a mindful business plan to be able to accelerate its 
+revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state
 - What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -28,9 +32,8 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- python  - version 3.7.7
+- notebook server - version 6.4.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
